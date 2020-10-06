@@ -1,3 +1,3 @@
-Musika
-Irakurtzea
-Korrika egitea
+- Musika
+- Irakurtzea
+- Korrika egitea
