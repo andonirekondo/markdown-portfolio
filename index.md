@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ![Imagen del Yaktocat](https://octodex.github.com/images/yaktocat.png) (Katu kosmikoa)
 <br>
 
