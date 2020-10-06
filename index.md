@@ -2,15 +2,10 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{Andoni Rekondo}
 
-<br>
+Katu kosmikoa
 
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
 
 <br>
 
@@ -19,3 +14,8 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+(Kaixo katu kosmikoa)
+![Imagen del Yaktocat](https://octodex.github.com/images/yaktocat.png) (Katu kosmikoa)
+(Kaixo)
+
