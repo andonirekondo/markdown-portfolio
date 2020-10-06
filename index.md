@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 Katu kosmikoa
 
 (Kaixo katu kosmikoa)
