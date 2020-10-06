@@ -1,0 +1,3 @@
+- Musika
+- Irakurtzea
+- Korrika egitea
